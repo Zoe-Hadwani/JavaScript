@@ -1,2 +1,3 @@
 let name = zulu;
-console.log("name");
+console.log("Make mistake);
+console.fog('name')
